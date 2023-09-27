@@ -1,6 +1,6 @@
 ## Hi there 👋 We are ACM at Missouri State University
 
-We're excited to announce the inauguration of our ACM student chapter this Fall 2023! Join us for our first meeting on Wednesday, August 30th, at 5:30 pm at CHK 210 to learn more about our goals and upcoming events.
+We're excited to announce the inauguration of our ACM student chapter this Fall 2023! Join us for our Python Workshop on Wednesday, September 27th, at 5:30 pm at CHK 210 to learn more about our goals and upcoming events.
 
 More to come in the next days! 🤓🥳🎉
 
