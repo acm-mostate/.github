@@ -1,6 +1,6 @@
 ## Hi there 👋 We are ACM at Missouri State University
 
-We're excited to announce the inauguration of our ACM student chapter this Fall 2023! Join us for our weekly meetings every Wednesday at 5:00 pm at CHK 151 for our programming training session.
+Join us for our weekly meetings every Tuesday & Thursday from 2 to 4 pm at CHK 210 for our programming training session.
 
 More to come in the next days! 🤓🥳🎉
 
